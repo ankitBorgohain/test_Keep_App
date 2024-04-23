@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test_Keep_App/static/css/main.a89be32a.css",
+    "main.js": "/test_Keep_App/static/js/main.f151e8ea.js",
+    "static/media/logo.png": "/test_Keep_App/static/media/logo.19caf40721126feee017.png",
+    "index.html": "/test_Keep_App/index.html",
+    "main.a89be32a.css.map": "/test_Keep_App/static/css/main.a89be32a.css.map",
+    "main.f151e8ea.js.map": "/test_Keep_App/static/js/main.f151e8ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a89be32a.css",
+    "static/js/main.f151e8ea.js"
+  ]
+}
